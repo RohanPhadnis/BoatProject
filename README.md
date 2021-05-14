@@ -14,7 +14,7 @@ The first design contained ideas for a bouyant container.
 
 
 <b>Design 2</b>
-<img src="design2.png>
+<img src="design2.png">
 The second design is a basic raft.
 <ul>
 <li>Materials: wood/cardboard, styrofoam</li>
