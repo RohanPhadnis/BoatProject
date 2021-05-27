@@ -32,23 +32,36 @@ Key:
 <code>m</code>: mass
 <code>g</code>: gravitational constant (~10m/s/s)
 
+
 <code>Fb = Fg</code>
+
 <code>Fb = ρVg</code>
+
 <code>Fg = mg</code>
+
 <code>mg = ρVg</code>
+
 <code>m = ρV</code>
+
 <code>V = m/ρ</code>
 
 It is assumed that the total mass of the boat and person is 70kg.
 This experiment is conducted in water with a density of about 1000kg/m^3.
 
+
 <code>V = 70kg / 1000kg/m^3</code>
+
 <code>V = 0.07m^3</code>
+
 
 Styrofoam density = <code>50kg/m^3</code>
 
 <code>ρ = m / V</code>
+
 <code>50kg/m^3 = m / 0.07m^3</code>
+
 <code>m = 3.5kg</code>
+
+
 
 Thus, a 3.5kg styrofoam payload is necessary to support 70kg.
