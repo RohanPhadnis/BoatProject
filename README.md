@@ -24,13 +24,20 @@ The second design is a basic raft.
 
 <h1>2. Calculations</h1>
 
-Key:
+<b>Key:</b>
+
 <code>Fb</code>: buoyant force
+
 <code>Fg</code>: gravitational force
+
 <code>ρ</code>: fluid density
+
 <code>V</code>: volume (volume of submerged solid and displaced liquid are equal)
+
 <code>m</code>: mass
+
 <code>g</code>: gravitational constant (~10m/s/s)
+
 
 
 <code>Fb = Fg</code>
