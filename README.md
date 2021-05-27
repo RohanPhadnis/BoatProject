@@ -20,3 +20,41 @@ The second design is a basic raft.
 <li>Materials: wood/cardboard, styrofoam</li>
 <li>Components: wood/cardboard base, wood/cardboard stool, styrofoam floatation device</li>
 </ul>
+
+
+<h1>2. Calculations</h1>
+
+Key:
+<code>Fb</code>: buoyant force
+<code>Fg</code>: gravitational force
+<code>ρ</code>: fluid density
+<code>V</code>: volume (volume of submerged solid and displaced liquid are equal)
+<code>m</code>: mass
+<code>g</code>: gravitational constant (~10m/s/s)
+
+<code>
+Fb = Fg
+Fb = ρVg
+Fg = mg
+mg = ρVg
+m = ρV
+V = m/ρ
+</code>
+
+It is assumed that the total mass of the boat and person is 70kg.
+This experiment is conducted in water with a density of about 1000kg/m^3.
+
+<code>
+V = 70kg / 1000kg/m^3
+V = 0.07m^3
+</code>
+
+Styrofoam density = <code>50kg/m^3</code>
+
+<code>
+ρ = m / V
+50kg/m^3 = m / 0.07m^3
+m = 3.5kg
+</code>
+
+Thus, a 3.5kg styrofoam payload is necessary to support 70kg.
