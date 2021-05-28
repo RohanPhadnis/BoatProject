@@ -75,6 +75,6 @@ Thus, a 3.5kg styrofoam payload is necessary to support 70kg.
 
 In words:
 
-<code>mass_of_styrofoam_payload = density_of_styrofoam * totoal_boat_mass / density_of_water</code>
+<code>mass_of_styrofoam_payload = density_of_styrofoam * total_boat_mass / density_of_water</code>
 
 <code>mass_of_styrofoam_payload = 50kg/m^3 * 70kg / 1000kg/m^3 = 3.5kg</code>
