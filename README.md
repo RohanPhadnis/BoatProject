@@ -1,4 +1,10 @@
-# BoatProject
+27th May 2021, California
+
+
+# Winner of Campolindo AP Physics - 2 Contest
+
+<b>Objective: Design, build and demonstrate a Flotation Vehicle made out of recycled materials that can transport a passenger across an Olympics-size swimming pool in the shortest time.</b>
+
 CADs, Constraints, Simulations, and Derivations for the Boat Project in AP Physics 2.
 
 <h1>1. Designing</h1>
@@ -13,7 +19,7 @@ The first design contained ideas for a bouyant container.
 </ul>
 
 
-<b>Design 2</b>
+<b>Design 2 <i>(Approved and Finalized)</i></b>
 <img src="design2.png">
 The second design is a basic raft.
 <ul>
@@ -24,37 +30,69 @@ The second design is a basic raft.
 
 <h1>2. Calculations</h1>
 
-Key:
+<b>Key:</b>
+
 <code>Fb</code>: buoyant force
+
 <code>Fg</code>: gravitational force
+
 <code>ρ</code>: fluid density
+
 <code>V</code>: volume (volume of submerged solid and displaced liquid are equal)
+
 <code>m</code>: mass
+
 <code>g</code>: gravitational constant (~10m/s/s)
 
-<code>
-Fb = Fg
-Fb = ρVg
-Fg = mg
-mg = ρVg
-m = ρV
-V = m/ρ
-</code>
+
+
+<code>Fb = Fg</code>
+
+<code>Fb = ρVg</code>
+
+<code>Fg = mg</code>
+
+<code>mg = ρVg</code>
+
+<code>m = ρV</code>
+
+<code>V = m/ρ</code>
 
 It is assumed that the total mass of the boat and person is 70kg.
 This experiment is conducted in water with a density of about 1000kg/m^3.
 
-<code>
-V = 70kg / 1000kg/m^3
-V = 0.07m^3
-</code>
+
+<code>V = 70kg / 1000kg/m^3</code>
+
+<code>V = 0.07m^3</code>
+
 
 Styrofoam density = <code>50kg/m^3</code>
 
-<code>
-ρ = m / V
-50kg/m^3 = m / 0.07m^3
-m = 3.5kg
-</code>
+<code>ρ = m / V</code>
+
+<code>50kg/m^3 = m / 0.07m^3</code>
+
+<code>m = 3.5kg</code>
+
+
 
 Thus, a 3.5kg styrofoam payload is necessary to support 70kg.
+
+In words:
+
+<code>mass_of_styrofoam_payload = density_of_styrofoam * total_boat_mass / density_of_water</code>
+
+<code>mass_of_styrofoam_payload = 50kg/m^3 * 70kg / 1000kg/m^3 = 3.5kg</code>
+
+
+<h1>3. Winning the Physics Contest</h1>
+
+Our team won the competition as the fastest flotation device that made it across the length of the Campo swimming pool against 8 competing teams.
+
+
+<h1>4. The Trophy</h1>
+
+The coolest trophy ever 😎
+
+<img src="trophy.png">
