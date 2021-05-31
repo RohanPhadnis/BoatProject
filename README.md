@@ -1,4 +1,10 @@
-# BoatProject
+27th May 2021, California
+
+
+# Winner of Campolindo AP Physics - 2 Contest
+
+<b>Objective: Design, build and demonstrate a Flotation Vehicle made out of recycled materials that can transport a passenger across an Olympics-size swimming pool in the shortest time.</b>
+
 CADs, Constraints, Simulations, and Derivations for the Boat Project in AP Physics 2.
 
 <h1>1. Designing</h1>
@@ -13,7 +19,7 @@ The first design contained ideas for a bouyant container.
 </ul>
 
 
-<b>Design 2</b>
+<b>Design 2 <i>(Approved and Finalized)</i></b>
 <img src="design2.png">
 The second design is a basic raft.
 <ul>
@@ -78,3 +84,15 @@ In words:
 <code>mass_of_styrofoam_payload = density_of_styrofoam * total_boat_mass / density_of_water</code>
 
 <code>mass_of_styrofoam_payload = 50kg/m^3 * 70kg / 1000kg/m^3 = 3.5kg</code>
+
+
+<h1>3. Winning the Physics Contest</h1>
+
+Our team won the competition as the fastest flotation device that made it across the length of the Campo swimming pool against 8 competing teams.
+
+
+<h1>4. The Trophy</h1>
+
+The coolest trophy ever 😎
+
+<img src="trophy.png">
