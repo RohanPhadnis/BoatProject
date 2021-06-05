@@ -91,6 +91,8 @@ In words:
 <img src="boat.png">
 The finished product resembled the selected design, although there are some differences. The styrofoam payload, when fully submerged, could float up to 70kg, as planned, without wetting the cardboard seat.
 
+
+
 <img src="oar.png">
 The oar was a bamboo kayak oar. The paddles are made out of cardboard wrapped in bubble wrap. It spanned a total of 2m.
 
