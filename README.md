@@ -86,12 +86,21 @@ In words:
 <code>mass_of_styrofoam_payload = 50kg/m^3 * 70kg / 1000kg/m^3 = 3.5kg</code>
 
 
-<h1>3. Winning the Physics Contest</h1>
+<h1>3. The Finished Product</h1>
+
+<img src="boat.png">
+The finished product resembled the selected design, although there are some differences. The styrofoam payload, when fully submerged, could float up to 70kg, as planned, without wetting the cardboard seat.
+
+<img src="oar.png">
+The oar was a bamboo kayak oar. The paddles are made out of cardboard wrapped in bubble wrap. It spanned a total of 2m.
+
+
+<h1>4. Winning the Physics Contest</h1>
 
 Our team won the competition as the fastest flotation device that made it across the length of the Campo swimming pool against 8 competing teams.
 
 
-<h1>4. The Trophy</h1>
+<h1>5. The Trophy</h1>
 
 The coolest trophy ever 😎
 
